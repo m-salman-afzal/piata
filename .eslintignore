@@ -1,0 +1,21 @@
+# Editor
+/.idea
+/.vscode
+
+# Project
+.env*
+src/assets/*
+/.next
+/node_modules
+/.husky
+/.github
+README.md
+
+
+# Configs
+.prettierignore
+.eslintignore
+.gitattributes
+
+# Misc
+*.png
